@@ -4,7 +4,7 @@ const Summary = () => {
     return (
         <div className="mb-4 md:mb-8">
             <SecTitle text={"Summary"} />
-            <div className="font-light">
+            <div className="font-light ml-8">
                 <p className="mb-3">
                     こんにちは, mahiroです
                 </p>
