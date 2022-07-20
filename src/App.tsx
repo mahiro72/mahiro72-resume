@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React,{useCallback} from "react";
+import './styles/App.css';
+import type { Engine } from "tsparticles-engine";
+import Particles from "react-tsparticles";
+import { loadFull } from "tsparticles";
+import particlesOptions from "./data/particles.json";
+import { ISourceOptions } from "tsparticles-engine";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Profile from "./components/profile";
+
+const App = ()=>{
+
+    const particlesInit = useCallback(async (engine: Engine) => {
+        await loadFull(engine);
+    }, []);
+
+    return (
+        <>
+            <Particles 
+                options={particlesOptions as ISourceOptions}
+                init={particlesInit}
+            />
+            <div className="container mx-auto px-10 md_px-40">
+                <div className="text-gray-200">
+                    <Profile />
+                </div>
+            </div>
+        </>
+
+    );
 }
 
 export default App;
