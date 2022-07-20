@@ -35,7 +35,7 @@ const Award:React.FC<Props> = ({award}) => {
                     </div>
             }
 
-            <div className="text-base font-light w-72 md:w-full">
+            <div className="text-base font-light w-64 md:w-full">
                 <div className="">
                     <p className="text-sm text-gray-400">{award.date}</p>
                     <a 
