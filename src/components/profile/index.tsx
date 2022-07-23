@@ -11,7 +11,7 @@ import Footer from "../layout/Footer";
 
 const Profile:React.FC = () => {
     return (
-        <div className="sm:mx-24 md:mx-0 lg:mx-28 xl:mx-60">
+        <div className="mt-4 md:mt-12 sm:mx-24 md:mx-0 lg:mx-28 xl:mx-60">
             <div className="grid grid-cols-1 md:grid-cols-3">
                 <div className="col-span-1">
                     <Info />
