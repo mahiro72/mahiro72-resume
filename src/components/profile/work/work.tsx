@@ -27,7 +27,7 @@ const Work:React.FC<Props> = ({work,isLast}) => {
 
             <div className="text-lg font-light mt-2 mb-4">
                 <div className="">
-                    <div className="font-normal">{work.date}</div>
+                    <div className="font-base">{work.date}</div>
                     <div className="flex my-1">
                         <img src={work.img} className="w-9 h-9 mr-2 rounded-lg shadow-lg" />
                         <div className="my-auto font-normal text-xl">{work.name}</div>

@@ -27,7 +27,7 @@ const Education:React.FC<Props> = ({education,isLast})=>{
 
             <div className="text-lg font-light mt-2 mb-4">
                 <div className="">
-                    <div className="font-normal">{education.date}</div>
+                    <div className="font-base">{education.date}</div>
                     <div className="flex my-1">
                         <img src={education.img} className="w-9 h-9 mr-2 rounded-lg shadow-lg" />
                         <div className="my-auto font-normal text-xl">{education.name}</div>
