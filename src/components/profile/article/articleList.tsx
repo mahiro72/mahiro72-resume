@@ -50,7 +50,7 @@ const ArticleList = ()=> {
                 :
                 <span className="text-gray-600">before</span>
             }
-            <span className="text-gray-200 text-xl"> {pageIdx} </span>
+            <span className="text-gray-200 text-xl"> {pageIdx + 1} </span>
             {
                 (pageIdx + 1) * 5 < articles.length
                 ?
