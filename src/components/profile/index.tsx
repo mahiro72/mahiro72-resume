@@ -6,6 +6,7 @@ import SkillList from "./skill/skillList";
 import ArticleList from "./article/articleList";
 import Info from "./info/info";
 import SecTips from "../common/SecTips";
+import Footer from "../layout/Footer";
 
 const Profile = () => {
     return (
@@ -24,6 +25,7 @@ const Profile = () => {
                     <ArticleList />
                 </div>
             </div>
+            <Footer />
         </div>
 
     )
