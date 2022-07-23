@@ -16,7 +16,7 @@ const Profile = () => {
                     <Info />
                 </div>
                 <div className="col-span-1 md:col-span-2 md:pl-10">
-                    <SecTips text={"言語の切り変えが可能です. Language switching is available."} />
+                    {/* <SecTips text={"言語の切り変えが可能です. Language switching is available."} /> */}
                     <Summary />
                     <WorkList />
                     <EducationList />
