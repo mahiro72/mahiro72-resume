@@ -10,7 +10,7 @@ export type WorkType = {
     about:string;
 }
 
-const WorkList = () => {
+const WorkList:React.FC = () => {
     const works = data.work;
     return (
         <div className="pt-4 mb-4 md:mb-8">

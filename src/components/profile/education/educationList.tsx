@@ -1,3 +1,4 @@
+import React from "react";
 import SecTitle from "../../common/SecTitle";
 import Education from "./education";
 import data from '../../../data/profile/education/data'
@@ -9,7 +10,7 @@ export type EducationType = {
     about:string;
 }
 
-const EducationList = ()=>{
+const EducationList:React.FC = ()=>{
     const educations = data.education;
 
     return (

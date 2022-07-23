@@ -1,6 +1,7 @@
+import React from "react";
 import SecTitle from "../../common/SecTitle";
 
-const Summary = () => {
+const Summary:React.FC = () => {
     return (
         <div className="mb-4 md:mb-8">
             <SecTitle text={"Summary"} />

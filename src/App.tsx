@@ -8,7 +8,7 @@ import { ISourceOptions } from "tsparticles-engine";
 
 import Profile from "./components/profile";
 
-const App = ()=>{
+const App:React.FC = ()=>{
 
     const particlesInit = useCallback(async (engine: Engine) => {
         await loadFull(engine);

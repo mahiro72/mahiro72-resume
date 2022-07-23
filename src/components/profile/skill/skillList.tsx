@@ -1,10 +1,11 @@
+import React from "react";
 import SecTitle from "../../common/SecTitle";
 import SecTips from "../../common/SecTips";
 import SecSkillGroup from "./SecSkillGroup";
 
 import data from "../../../data/profile/skill/data";
 
-const SkillList = () => {
+const SkillList:React.FC = () => {
     const frontendList = data.frontendList;
     const backendList = data.backendList;
     const otherList = data.otherList;

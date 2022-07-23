@@ -1,3 +1,4 @@
+import React from "react";
 import EducationList from "./education/educationList";
 import Summary from "./summary/summary";
 import WorkList from "./work/workList";
@@ -8,7 +9,7 @@ import Info from "./info/info";
 import SecTips from "../common/SecTips";
 import Footer from "../layout/Footer";
 
-const Profile = () => {
+const Profile:React.FC = () => {
     return (
         <div className="sm:mx-24 md:mx-0 lg:mx-28 xl:mx-60">
             <div className="grid grid-cols-1 md:grid-cols-3">

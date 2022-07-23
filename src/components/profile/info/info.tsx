@@ -1,3 +1,4 @@
+import React from "react";
 import img_profile from "../../../img/profile/info/profile.png";
 import SecInfoLink from "./SecInfoLink";
 
@@ -8,7 +9,7 @@ import img_twitter from "../../../img/profile/info/twitter.png"
 import img_github from "../../../img/common/github.png"
 
 
-const Info = ()=>{
+const Info:React.FC = ()=>{
     return (
         <div className="pt-8 text-center md:pr-10">
             <img src={img_profile} alt="" className="mx-auto rounded-full h-36 w-36" />

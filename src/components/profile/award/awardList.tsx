@@ -1,3 +1,4 @@
+import React from "react";
 import SecTitle from "../../common/SecTitle";
 import Award from "./award";
 import data from '../../../data/profile/award/data'
@@ -12,7 +13,7 @@ export type AwardType = {
     github:string;
 }
 
-const AwardList = () => {
+const AwardList:React.FC = () => {
 
     const awards = data.award;
 

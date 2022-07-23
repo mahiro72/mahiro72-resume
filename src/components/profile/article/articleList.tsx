@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React,{ useEffect, useState } from "react";
 import SecTitle from "../../common/SecTitle";
 import data from "../../../data/profile/article/data";
 import SecArticle from "./SecArticle";
@@ -10,7 +10,7 @@ export type ArticleType = {
     link:string;
 }
 
-const ArticleList = ()=> {
+const ArticleList:React.FC = ()=> {
     const articles = data.article;
 
     // ページネーション
