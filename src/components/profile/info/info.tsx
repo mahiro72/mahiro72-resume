@@ -16,12 +16,12 @@ const Info = ()=>{
                 <p className="text-2xl">mahiro yoshie</p>
                 <p className="text-base text-gray-400">backend engineer</p>
             </div>
-            <div className="mb-8">
+            <div className="mb-8 w-48 mx-auto">
                 <SecInfoLink text={"Kyoto, Japan"} img={img_location} link={""}/>
                 <SecInfoLink text={"mahiro.yoshie@gmail.com"} img={img_mail} link={""}/>
                 <SecInfoLink text={"Linkedin"} img={img_linkedin} link={"https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/"}/>
             </div>
-            <div>
+            <div className="w-48 mx-auto">
                 <SecInfoLink text={"@sino0042900"} img={img_twitter} link={"https://twitter.com/sino0042900"}/>
                 <SecInfoLink text={"mahiro72"} img={img_github} link={"https://github.com/mahiro72"}/>
             </div>
