@@ -24,7 +24,7 @@ const data = {
         },
         {
             "name":"TS",
-            "level":1,
+            "level":2,
         },
         {
             "name":"Nuxt",
@@ -49,6 +49,10 @@ const data = {
             "level":2,
         },
         {
+            "name":"Java",
+            "level":2,
+        },
+        {
             "name":"Ruby",
             "level":1,
         },
@@ -58,6 +62,10 @@ const data = {
         },
         {
             "name":"Node",
+            "level":1,
+        },
+        {
+            "name":"Spring",
             "level":1,
         },
     ],
@@ -88,6 +96,10 @@ const data = {
         },
         {
             "name":"Heroku",
+            "level":1,
+        },
+        {
+            "name":"R",
             "level":1,
         },
     ],
