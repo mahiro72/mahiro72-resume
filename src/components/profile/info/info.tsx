@@ -7,7 +7,7 @@ import img_mail from "../../../img/profile/info/mail.png"
 import img_linkedin from "../../../img/profile/info/linkedin.png"
 import img_twitter from "../../../img/profile/info/twitter.png"
 import img_github from "../../../img/common/github.png"
-
+import img_hatena from "../../../img/profile/info/hatena.png"
 
 const Info:React.FC = ()=>{
     return (
@@ -21,6 +21,7 @@ const Info:React.FC = ()=>{
                 <SecInfoLink text={"Kyoto, Japan"} img={img_location} link={""}/>
                 <SecInfoLink text={"mahiro.yoshie@gmail.com"} img={img_mail} link={""}/>
                 <SecInfoLink text={"Linkedin"} img={img_linkedin} link={"https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/"}/>
+                <SecInfoLink text={"Hatena Blog"} img={img_hatena} link={"https://mahiro72.hatenablog.com/"}/>
             </div>
             <div className="w-48 mx-auto">
                 <SecInfoLink text={"@sino0042900"} img={img_twitter} link={"https://twitter.com/sino0042900"}/>
