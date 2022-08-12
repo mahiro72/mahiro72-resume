@@ -9,7 +9,7 @@ const data = {
         {
             "date":"2022/8 -",
             "img":img_plaid,
-            "name":"PLAID",
+            "name":"株式会社プレイド",
             "about":"ソフトウェアエンジニア."
         },
         {
@@ -27,13 +27,13 @@ const data = {
         {
             "date":"2022/3",
             "img":img_teamlab,
-            "name":"TeamLab",
+            "name":"チームラボ株式会社",
             "about":"フロントエンドエンジニア. システム設計やテスト,実現可能性検討などの経験をつみました"
         },
         {
             "date":"2021/9",
             "img":img_cookpad,
-            "name":"Cookpad",
+            "name":"クックパッド株式会社",
             "about":"1dayインターン. RubyやGraphQLを学びました"
         },
     ]
