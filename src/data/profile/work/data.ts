@@ -3,6 +3,7 @@ import img_example from "../../../img/profile/work/company_example.png"
 import img_teamlab from "../../../img/profile/work/teamlab.png"
 import img_cookpad from "../../../img/profile/work/cookpad.png"
 import img_plaid from "../../../img/profile/work/plaid.png"
+import img_sou from "../../../img/profile/work/sou.png"
 
 const data = {
     "work":[
@@ -20,7 +21,7 @@ const data = {
         },
         {
             "date":"2021/4 - 2022/7",
-            "img":img_example,
+            "img":img_sou,
             "name":"株式会社ソウ",
             "about":"フルスタックエンジニア. HRtechやFintechの開発. システム設計からアーキテクチャ設計,コーディングなどすべて担当"
         },
