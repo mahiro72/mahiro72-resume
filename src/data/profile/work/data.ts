@@ -10,25 +10,25 @@ const data = {
             "date":"2022/8 -",
             "img":img_plaid,
             "name":"PLAID",
-            "about":"Software Engineer"
+            "about":"ソフトウェアエンジニア."
         },
         {
             "date":"2022/6 -",
             "img":img_zozo,
-            "name":"ZOZO",
-            "about":"Backend Engineer"
+            "name":"株式会社ZOZO",
+            "about":"バックエンドエンジニア. ZOZOTOWN. 検索基盤"
         },
         {
             "date":"2021/4 - 2022/7",
             "img":img_example,
-            "name":"Sou.co",
-            "about":"Fullstack Engineer. HRtechやFintechの開発"
+            "name":"株式会社ソウ",
+            "about":"フルスタックエンジニア. HRtechやFintechの開発. システム設計からアーキテクチャ設計,コーディングなどすべて担当"
         },
         {
             "date":"2022/3",
             "img":img_teamlab,
             "name":"TeamLab",
-            "about":"Frontend Engineer. システム設計やテスト,実現可能性検討などの経験をつみました"
+            "about":"フロントエンドエンジニア. システム設計やテスト,実現可能性検討などの経験をつみました"
         },
         {
             "date":"2021/9",
