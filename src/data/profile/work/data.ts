@@ -23,14 +23,14 @@ const data = {
         {
             "date":"2022/4 - 2022/5",
             "img":img_gmo,
-            "name":"GMOインターネット株式会社",
+            "name":"GMOインターネット",
             "about":"3days event. DevSecOpsThon. 物理サーバーの構築やチューニングなどに取り組みました"
         },
         {
             "date":"2021/4 - 2022/7",
             "img":img_sou,
             "name":"株式会社ソウ",
-            "about":"フルスタックエンジニア. HRtechやFintechの開発. システム設計からアーキテクチャ設計,コーディングなどすべて担当しました"
+            "about":"フルスタックエンジニア. HRtechやFintechの開発. システム設計からアーキテクチャ設計,コーディングなど"
         },
         {
             "date":"2022/3",
