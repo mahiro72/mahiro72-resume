@@ -20,7 +20,7 @@ const Work:React.FC<Props> = ({work,isLast}) => {
                             <div className="mt-2 mx-auto w-1 h-1 bg-gray-400"></div>
                         </>
                         :
-                        <div className="mx-auto w-1 h-40 bg-gray-400"></div>
+                        <div className="mx-auto w-1 h-64 md:h-40 bg-gray-400"></div>
                     }
                 </div>
             </div>
