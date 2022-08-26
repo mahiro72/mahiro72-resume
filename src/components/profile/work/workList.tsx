@@ -14,7 +14,7 @@ const WorkList:React.FC = () => {
     const works = data.work;
     return (
         <div className="pt-4 mb-4 md:mb-8">
-            <SecTitle text={"Work Experience"} />
+            <SecTitle text={"Work Experience"}/>
             {
                 works.map((
                     work:WorkType,

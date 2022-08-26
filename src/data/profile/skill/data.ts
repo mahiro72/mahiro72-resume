@@ -69,6 +69,24 @@ const data = {
             "level":1,
         },
     ],
+    "toolList":[
+        {
+            "name":"GitHub",
+            "level":2,
+        },
+        {
+            "name":"VSCode",
+            "level":2,
+        },
+        {
+            "name":"IntelliJ IDEA",
+            "level":1,
+        },
+        {
+            "name":"Datadog",
+            "level":1,
+        }
+    ],
     "otherList":[
         {
             "name":"C",
@@ -102,6 +120,10 @@ const data = {
             "name":"R",
             "level":1,
         },
+        {
+            "name":"k8s",
+            "level":1,
+        }
     ],
 }
 

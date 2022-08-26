@@ -7,20 +7,22 @@ const Summary:React.FC = () => {
             <SecTitle text={"Summary"} />
             <div className="font-light ml-8">
                 <p className="mb-3">
-                    こんにちは, mahiroです
+                    こんにちは、mahiro です。<br />
+                    TwitterではSinoという名前で活動しています。
                 </p>
                 <p className="mb-3">
-                    趣味でweb開発や競プロをやってます <br />
-                    最近はCS(コンピュータサイエンス)を学んでいます
+                    趣味でweb開発やハッカソンをしており、 <br />
+                    最近はSREっぽいこともしてます。
                 </p>
                 <p className="mb-3">
-                    技術を使って問題解決に取り組むことが好きです.
+                    エンジニアリングを通して、問題解決に取り組むことが好きです。 <br />
+                    その中でも最近は、リプレースを通して既存の課題を解決することに関心があります。 <br />
                 </p>
-                <p className="mb-3">
+                {/* <p className="mb-3">
                     就職活動は終了しましたが, <br />
                     エンジニアとしてのインターンやアルバイトにとても興味があります！ <br />
                     ご連絡お待ちしております🙇
-                </p>
+                </p> */}
             </div>
         </div>
     )
