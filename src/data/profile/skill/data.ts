@@ -97,6 +97,10 @@ const data = {
             "level":2,
         },
         {
+            "name":"k8s",
+            "level":2,
+        },
+        {
             "name":"Git",
             "level":2,
         },
@@ -117,13 +121,9 @@ const data = {
             "level":1,
         },
         {
-            "name":"R",
+            "name":"redis",
             "level":1,
         },
-        {
-            "name":"k8s",
-            "level":1,
-        }
     ],
 }
 
