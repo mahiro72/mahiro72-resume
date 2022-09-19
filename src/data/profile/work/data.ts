@@ -5,6 +5,8 @@ import img_cookpad from "../../../img/profile/work/cookpad.png"
 import img_plaid from "../../../img/profile/work/plaid.png"
 import img_sou from "../../../img/profile/work/sou.png"
 import img_gmo from "../../../img/profile/work/gmo.jpg"
+import img_sansan from "../../../img/profile/work/sansan.png"
+
 
 const data = {
     "work":[
@@ -19,6 +21,12 @@ const data = {
             "img":img_zozo,
             "name":"株式会社ZOZO",
             "about":"バックエンドエンジニア / ZOZOTOWN / 検索基盤"
+        },
+        {
+            "date":"2022/9",
+            "img":img_sansan,
+            "name":"Sansan株式会社",
+            "about":"2 weeks internship / インプットとアウトプットができるハッカソン形式のインターン"
         },
         {
             "date":"2022/4 - 2022/5",
