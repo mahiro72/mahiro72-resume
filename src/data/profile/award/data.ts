@@ -5,10 +5,19 @@ import img_engineer_tree from "../../../img/profile/award/engineer_tree.png"
 import img_gijutucom from "../../../img/profile/award/gijutucom.png"
 import img_dita from "../../../img/profile/award/dita.png"
 import img_meethack_geekten from "../../../img/profile/award/meethack_geekten.png"
+import img_nomipara from "../../../img/profile/award/nomipara.png"
 
 
 const data = {
     "award":[
+        {
+            "date":"2022/9",
+            "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award, Hacking Sprint Block Sponsor Award(シグマ賞)",
+            "img":img_nomipara,
+            "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops担当",
+            "article":"",
+            "github":"https://github.com/jphacks/F_2205"
+        },
         {
             "date":"2022/9",
             "name":"🏆技育展2022 MeetHack / 優秀賞",
