@@ -12,7 +12,7 @@ const data = {
     "award":[
         {
             "date":"2022/9",
-            "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award, Hacking Sprint Block Sponsor Award(シグマ賞)",
+            "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award(Fブロック1位), Hacking Sprint Block Sponsor Award(シグマ賞)",
             "img":img_nomipara,
             "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops担当",
             "article":"",
