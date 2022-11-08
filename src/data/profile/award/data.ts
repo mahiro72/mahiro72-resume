@@ -6,12 +6,21 @@ import img_gijutucom from "../../../img/profile/award/gijutucom.png"
 import img_dita from "../../../img/profile/award/dita.png"
 import img_meethack_geekten from "../../../img/profile/award/meethack_geekten.png"
 import img_nomipara from "../../../img/profile/award/nomipara.png"
+import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
 
 
 const data = {
     "award":[
         {
-            "date":"2022/9",
+            "date":"2022/11",
+            "name":"✨JPHACKS2022 のみぱら / Award Day 進出",
+            "img":img_jphacks ,
+            "about":"「JPHACKS 2022 Award Day」進出チームに選ばれました",
+            "article":"",
+            "github":"https://github.com/jphacks/F_2205"
+        },
+        {
+            "date":"2022/10",
             "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award(Fブロック1位), Hacking Sprint Block Sponsor Award(シグマ賞)",
             "img":img_nomipara,
             "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops担当",
@@ -74,6 +83,14 @@ const data = {
             "article":"",
             "github":""
         },
+        {
+            "date":"2022/2",
+            "name":"👑データ解析コンペティション関西予選 / 最優秀賞",
+            "img":"",
+            "about":"新生児・乳幼児の母親をメインユーザとするポータルサイトのデータの解析コンペティション",
+            "article":"",
+            "github":""
+        }, 
         {
             "date":"2022/1",
             "name":"🏆技育CAMP vol.13 / 努力賞",
