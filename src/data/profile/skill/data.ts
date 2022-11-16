@@ -34,7 +34,7 @@ const data = {
     "backendList":[
         {
             "name":"Golang",
-            "level":3,
+            "level":4,
         },
         {
             "name":"Python",
@@ -53,29 +53,45 @@ const data = {
             "level":2,
         },
         {
+            "name":"Node",
+            "level":2,
+        },
+        {
             "name":"Ruby",
             "level":1,
         },
         {
             "name":"Rails",
             "level":1,
-        },
-        {
-            "name":"Node",
-            "level":1,
-        },
-        {
-            "name":"Spring",
-            "level":1,
-        },
+        }
     ],
     "toolList":[
         {
+            "name":"Git",
+            "level":3,
+        },
+        {
             "name":"GitHub",
+            "level":3,
+        },
+        {
+            "name":"Docker",
+            "level":3,
+        },
+        {
+            "name":"k8s",
             "level":2,
         },
         {
             "name":"VSCode",
+            "level":3,
+        },
+        {
+            "name":"Cloud Run",
+            "level":2,
+        },
+        {
+            "name":"GCP",
             "level":2,
         },
         {
@@ -85,32 +101,6 @@ const data = {
         {
             "name":"Datadog",
             "level":1,
-        }
-    ],
-    "otherList":[
-        {
-            "name":"C",
-            "level":3,
-        },
-        {
-            "name":"Docker",
-            "level":2,
-        },
-        {
-            "name":"k8s",
-            "level":2,
-        },
-        {
-            "name":"Git",
-            "level":2,
-        },
-        {
-            "name":"MySQL",
-            "level":2,
-        },
-        {
-            "name":"PostgreSQL",
-            "level":2,
         },
         {
             "name":"aws",
@@ -119,6 +109,20 @@ const data = {
         {
             "name":"Heroku",
             "level":1,
+        },
+    ],
+    "otherList":[
+        {
+            "name":"C",
+            "level":3,
+        },
+        {
+            "name":"MySQL",
+            "level":2,
+        },
+        {
+            "name":"PostgreSQL",
+            "level":2,
         },
         {
             "name":"redis",

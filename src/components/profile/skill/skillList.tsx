@@ -14,7 +14,7 @@ const SkillList:React.FC = () => {
     return(
         <div className="pt-4 mb-4 md:mb-8">
             <SecTitle text={"Skill"} />
-            <SecTips text={"★が多いほど得意な技術です"} />
+            <SecTips text={"★が多いほど得意な技術です (min:1, max:5)"} />
             <SecSkillGroup title={"Frontend"} color={"rose"} langList={frontendList}/>
             <SecSkillGroup title={"Backend"} color={"violet"} langList={backendList}/>
             <SecSkillGroup title={"Tools"} color={"orange"} langList={toolList}/>
