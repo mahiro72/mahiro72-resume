@@ -13,7 +13,15 @@ const data = {
     "award":[
         {
             "date":"2022/11",
-            "name":"✨JPHACKS2022 のみぱら / Award Day 進出",
+            "name":"👑JPHACKS2022 のみぱら! / 審査委員特別賞, Innovator認定, Award Day Sponsor Award (サントリー賞, シグマ賞, Jストリーム 賞)",
+            "img":img_nomipara,
+            "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops、デザイン担当",
+            "article":"",
+            "github":"https://github.com/jphacks/F_2205"
+        },
+        {
+            "date":"2022/11",
+            "name":"✨JPHACKS2022 のみぱら / Finalist Award",
             "img":img_jphacks ,
             "about":"「JPHACKS 2022 Award Day」進出チームに選ばれました",
             "article":"",
