@@ -6,6 +6,7 @@ import img_gijutucom from "../../../img/profile/award/gijutucom.png"
 import img_dita from "../../../img/profile/award/dita.png"
 import img_meethack_geekten from "../../../img/profile/award/meethack_geekten.png"
 import img_nomipara from "../../../img/profile/award/nomipara.png"
+import img_nomipara2 from "../../../img/profile/award/nomipara!.png"
 import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
 
 
@@ -14,7 +15,7 @@ const data = {
         {
             "date":"2022/11",
             "name":"👑JPHACKS2022 のみぱら! / 審査委員特別賞, Innovator認定, Award Day Sponsor Award (サントリー賞, シグマ賞, Jストリーム 賞)",
-            "img":img_nomipara,
+            "img":img_nomipara2,
             "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops、デザイン担当",
             "article":"",
             "github":"https://github.com/jphacks/F_2205"
