@@ -35,7 +35,7 @@ const ArticleList:React.FC = ()=> {
                     article:ArticleType,
                     idx:number
                 )=>{
-                    if (pageIdx * 5 <= idx && idx < (pageIdx + 1) * 5){
+                    if (pageIdx * 9 <= idx && idx < (pageIdx + 1) * 9){
                         return <SecArticle article={article} key={idx} />
                     }else{
                         return null;
