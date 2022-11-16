@@ -7,6 +7,7 @@ import img_dita from "../../../img/profile/award/dita.png"
 import img_meethack_geekten from "../../../img/profile/award/meethack_geekten.png"
 import img_nomipara from "../../../img/profile/award/nomipara.png"
 import img_nomipara2 from "../../../img/profile/award/nomipara2.png"
+import img_reiko from "../../../img/profile/award/reiko.png"
 import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
 
 
@@ -59,6 +60,14 @@ const data = {
             "about":"技術書を手軽に入手できるプラットフォーム 『技術書.com』/ フロント担当",
             "article":"",
             "github":""
+        },
+        {
+            "date":"2022/8",
+            "name":"🏆SPAJAM2022 第一回予選 / 優秀賞",
+            "img":img_reiko,
+            "about":"超短期間で、最高にキンキンに冷えた飲み物を準備できるアプリ / フロント担当",
+            "article":"",
+            "github":"https://github.com/mahiro72/SPAJAM2022"
         },
         {
             "date":"2022/7",
