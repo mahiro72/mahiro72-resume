@@ -42,7 +42,7 @@ const data = {
         },
         {
             "name":"Django",
-            "level":3,
+            "level":2,
         },
         {
             "name":"Flask",
