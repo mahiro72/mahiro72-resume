@@ -8,6 +8,7 @@ import ArticleList from "./article/articleList";
 import Info from "./info/info";
 import SecTips from "../common/SecTips";
 import Footer from "../layout/Footer";
+import InterviewList from "./interview/interviewList";
 
 const Profile:React.FC = () => {
     return (
@@ -24,6 +25,7 @@ const Profile:React.FC = () => {
                     <AwardList />
                     <SkillList />
                     <ArticleList />
+                    <InterviewList />
                 </div>
             </div>
             <Footer />

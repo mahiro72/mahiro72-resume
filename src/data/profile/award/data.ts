@@ -15,7 +15,7 @@ const data = {
     "award":[
         {
             "date":"2022/11",
-            "name":"👑JPHACKS2022 のみぱら! / 審査委員特別賞, Innovator認定, Award Day Sponsor Award (サントリー賞, シグマ賞, Jストリーム 賞)",
+            "name":"👑JPHACKS2022 のみぱら! / Audience 2位, 審査委員特別賞, Innovator認定, Award Day Sponsor Award (サントリー賞, シグマ賞, Jストリーム 賞)",
             "img":img_nomipara2,
             "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops、デザイン担当",
             "article":"",
