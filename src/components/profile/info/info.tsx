@@ -24,7 +24,7 @@ const Info:React.FC = ()=>{
                 <SecInfoLink text={"Hatena Blog"} img={img_hatena} link={"https://mahiro72.hatenablog.com/"}/>
             </div>
             <div className="w-48 mx-auto">
-                <SecInfoLink text={"@sino0x00"} img={img_twitter} link={"https://twitter.com/sino0x00"}/>
+                <SecInfoLink text={"@mahiro0x00"} img={img_twitter} link={"https://twitter.com/mahiro0x00"}/>
                 <SecInfoLink text={"@mahiro72"} img={img_github} link={"https://github.com/mahiro72"}/>
             </div>
         </div>
