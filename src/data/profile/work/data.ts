@@ -6,18 +6,24 @@ import img_plaid from "../../../img/profile/work/plaid.png"
 import img_sou from "../../../img/profile/work/sou.png"
 import img_gmo from "../../../img/profile/work/gmo.jpg"
 import img_sansan from "../../../img/profile/work/sansan.png"
-
+import img_ispec from "../../../img/profile/work/ispec.png"
 
 const data = {
     "work":[
         {
-            "date":"2022/8 -",
+            "date":"2023/1 - 現在",
+            "img":img_ispec,
+            "name":"株式会社ispec",
+            "about":"バックエンドエンジニア / SaaS Squad"
+        },
+        {
+            "date":"2022/8 - 現在",
             "img":img_plaid,
             "name":"株式会社プレイド",
             "about":"ソフトウェアエンジニア / SREよりのタスクに取り組んでいます"
         },
         {
-            "date":"2022/6 -",
+            "date":"2022/6 - 現在",
             "img":img_zozo,
             "name":"株式会社ZOZO",
             "about":"バックエンドエンジニア / ZOZOTOWN / 検索基盤"
