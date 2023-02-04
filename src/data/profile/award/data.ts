@@ -9,10 +9,18 @@ import img_nomipara from "../../../img/profile/award/nomipara.png"
 import img_nomipara2 from "../../../img/profile/award/nomipara2.png"
 import img_reiko from "../../../img/profile/award/reiko.png"
 import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
-
+import img_schema from "../../../img/profile/award/schema.png"
 
 const data = {
     "award":[
+        {
+            "date":"2023/1",
+            "name":"👑Google Cloud Challenge 2022 すきーま / 最優秀賞, ファイナリスト賞",
+            "img":img_schema,
+            "about":"隙間時間を有効活用できるサービスです / バックエンド、インフラ、Ops、デザイン担当",
+            "article":"",
+            "github":"https://github.com/Doer-org/google-cloud-challenge-2022"
+        },
         {
             "date":"2022/11",
             "name":"👑JPHACKS2022 のみぱら! / Audience 2位, 審査委員特別賞, Innovator認定, Award Day Sponsor Award (サントリー賞, シグマ賞, Jストリーム 賞)",
