@@ -7,9 +7,16 @@ import img_sou from "../../../img/profile/work/sou.png"
 import img_gmo from "../../../img/profile/work/gmo.jpg"
 import img_sansan from "../../../img/profile/work/sansan.png"
 import img_ispec from "../../../img/profile/work/ispec.png"
+import img_kw from "../../../img/profile/work/knowledge_work.png"
 
 const data = {
     "work":[
+        {
+            "date":"2023/3",
+            "img":img_kw,
+            "name":"株式会社ナレッジワーク",
+            "about":"3days インターン / Goで静的解析ツールを作成"
+        },
         {
             "date":"2023/1 - now",
             "img":img_ispec,

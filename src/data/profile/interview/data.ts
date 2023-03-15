@@ -2,6 +2,11 @@
 const data = {
     "interview":[
         {
+            "title":"”Google Cloud Challenge 2022”の優勝チームにインタビューしてみた",
+            "date":"2023/3",
+            "link":"https://www.topgate.co.jp/blog/tg-culture/29121"
+        },
+        {
             "title":"未来のエンジニアを育てる「技育展」にスポンサーとして初参加しました！",
             "date":"2022/12",
             "link":"https://blog.brainpad.co.jp/entry/2022/12/08/150021"

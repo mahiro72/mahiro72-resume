@@ -10,9 +10,18 @@ import img_nomipara2 from "../../../img/profile/award/nomipara2.png"
 import img_reiko from "../../../img/profile/award/reiko.png"
 import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
 import img_schema from "../../../img/profile/award/schema.png"
+import img_miyagi from "../../../img/profile/award/miyagi.png"
 
 const data = {
     "award":[
+        {
+            "date":"2023/3",
+            "name":"💪みやぎハッカソン 2022 / 出場",
+            "img":img_miyagi,
+            "about":"",
+            "article":"",
+            "github":""
+        },
         {
             "date":"2023/1",
             "name":"👑Google Cloud Challenge 2022 すきーま / 最優秀賞, ファイナリスト賞",
