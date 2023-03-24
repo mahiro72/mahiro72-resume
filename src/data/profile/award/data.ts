@@ -11,6 +11,7 @@ import img_reiko from "../../../img/profile/award/reiko.png"
 import img_jphacks from "../../../img/profile/award/jphacks2022.jpg"
 import img_schema from "../../../img/profile/award/schema.png"
 import img_miyagi from "../../../img/profile/award/miyagi.png"
+import img_pioneer from "../../../img/profile/award/pioneer.png"
 
 const data = {
     "award":[
@@ -124,6 +125,14 @@ const data = {
             "img":"",
             "about":"新生児・乳幼児の母親をメインユーザとするポータルサイトのデータの解析コンペティション",
             "article":"",
+            "github":""
+        }, 
+        {
+            "date":"2022/2",
+            "name":"💪Pioneer hackathon 2022 / 3位",
+            "img":img_pioneer,
+            "about":"2daysハッカソン / フロントエンド担当",
+            "article":"https://note.jpn.pioneer/n/n0c5ea0491f68",
             "github":""
         }, 
         {
