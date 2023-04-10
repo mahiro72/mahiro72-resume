@@ -12,10 +12,10 @@ import img_kw from "../../../img/profile/work/knowledge_work.png"
 const data = {
     "work":[
         {
-            "date":"2023/3",
-            "img":img_kw,
-            "name":"株式会社ナレッジワーク",
-            "about":"3days インターン / Goで静的解析ツールを作成"
+            "date":"2023/4 - now",
+            "img":img_zozo,
+            "name":"株式会社ZOZO",
+            "about":"バックエンドエンジニア / ZOZOTOWN / 技術本部"
         },
         {
             "date":"2023/1 - now",
@@ -24,16 +24,22 @@ const data = {
             "about":"バックエンドエンジニア / SaaS Squad"
         },
         {
-            "date":"2022/8 - now",
+            "date":"2023/3",
+            "img":img_kw,
+            "name":"株式会社ナレッジワーク",
+            "about":"3days インターン / Goで静的解析ツールを作成"
+        },
+        {
+            "date":"2022/8 - 2023/3",
             "img":img_plaid,
             "name":"株式会社プレイド",
             "about":"ソフトウェアエンジニア / SREよりのタスクに取り組んでいます"
         },
         {
-            "date":"2022/6 - now",
+            "date":"2022/6 - 2023/3",
             "img":img_zozo,
             "name":"株式会社ZOZO",
-            "about":"バックエンドエンジニア / ZOZOTOWN / 検索基盤"
+            "about":"バックエンドエンジニア / ZOZOTOWN / 技術本部 検索基盤"
         },
         {
             "date":"2022/9",
