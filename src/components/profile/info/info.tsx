@@ -1,5 +1,6 @@
 import React from "react";
 import img_profile from "../../../img/profile/info/profile.png";
+import img_profile_mahiro0x00 from "../../../img/profile/info/mahiro0x00.png";
 import SecInfoLink from "./SecInfoLink";
 
 import img_location from "../../../img/profile/info/location.png"
@@ -12,7 +13,7 @@ import img_hatena from "../../../img/profile/info/hatena.png"
 const Info:React.FC = ()=>{
     return (
         <div className="pt-8 text-center md:pr-10">
-            <img src={img_profile} alt="" className="mx-auto rounded-full h-36 w-36" />
+            <img src={img_profile_mahiro0x00} alt="" className="mx-auto rounded-full h-36 w-36" />
             <div className="py-8">
                 <p className="text-2xl">mahiro</p>
                 <p className="text-base text-gray-400">Backend engineer</p>
