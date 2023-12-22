@@ -29,7 +29,7 @@ const data = {
             "date":"2023/5 - now",
             "img":img_copalette,
             "name":"株式会社CoPalette",
-            "about":"バックエンドエンジニア"
+            "about":"取締役 / バックエンドエンジニア"
         },
         {
             "date":"2023/1 - now",

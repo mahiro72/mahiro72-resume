@@ -2,6 +2,11 @@
 const data = {
     "article":[
         {
+            "title":"少し変わったキャリアの新卒エンジニアのおすすめ書籍 7選",
+            "date":"2023/12",
+            "link":"https://qiita.com/mahiro72/items/2663ec94dd7f1c847bf0"
+        },
+        {
             "title":"振り返り ( 2023/1 )",
             "date":"2022/2",
             "link":"https://mahiro72.hatenablog.com/entry/2023/02/27/230147"
