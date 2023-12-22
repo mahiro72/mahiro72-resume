@@ -23,7 +23,7 @@ const data = {
             "date":"2023/10 - now",
             "img":img_aivolt,
             "name":"株式会社AI VOLT",
-            "about":"バックエンドエンジニア"
+            "about":"業務委託 / バックエンドエンジニア"
         },
         {
             "date":"2023/5 - now",
@@ -35,31 +35,31 @@ const data = {
             "date":"2023/1 - now",
             "img":img_ispec,
             "name":"株式会社ispec",
-            "about":"バックエンドエンジニア / SaaS Squad"
+            "about":"業務委託 / バックエンドエンジニア / SaaS Squad"
         },
         {
             "date":"2023/3",
             "img":img_kw,
             "name":"株式会社ナレッジワーク",
-            "about":"3days インターン / Goで静的解析ツールを作成"
+            "about":"インターンシップ / 3days / Goで静的解析ツールを作成"
         },
         {
             "date":"2022/8 - 2023/3",
             "img":img_plaid,
             "name":"株式会社プレイド",
-            "about":"ソフトウェアエンジニア / SREよりのタスクに取り組んでいます"
+            "about":"インターンシップ / ソフトウェアエンジニア / SREよりのタスクに取り組んでいます"
         },
         {
             "date":"2022/6 - 2023/3",
             "img":img_zozo,
             "name":"株式会社ZOZO",
-            "about":"バックエンドエンジニア / ZOZOTOWN / 技術本部 検索基盤"
+            "about":"インターンシップ / バックエンドエンジニア / ZOZOTOWN / 技術本部 検索基盤"
         },
         {
             "date":"2022/9",
             "img":img_sansan,
             "name":"Sansan株式会社",
-            "about":"2 weeks internship / インプットとアウトプットができるハッカソン形式のインターン"
+            "about":"インターンシップ / 2 weeks / インプットとアウトプットができるハッカソン形式のインターン"
         },
         {
             "date":"2022/4 - 2022/5",
@@ -71,19 +71,19 @@ const data = {
             "date":"2021/4 - 2022/7",
             "img":img_sou,
             "name":"株式会社ソウ",
-            "about":"フルスタックエンジニア / HRtech、Fintech / システム設計やアーキテクチャ設計、コーディングに取り組みました"
+            "about":"業務委託 / フルスタックエンジニア / HRtech、Fintech / システム設計やアーキテクチャ設計、コーディングに取り組みました"
         },
         {
             "date":"2022/3",
             "img":img_teamlab,
             "name":"チームラボ株式会社",
-            "about":"フロントエンドエンジニア / システム設計やテスト、実現可能性検討などの経験をつみました"
+            "about":"インターンシップ / フロントエンドエンジニア / システム設計やテスト、実現可能性検討などの経験をつみました"
         },
         {
             "date":"2021/9",
             "img":img_cookpad,
             "name":"クックパッド株式会社",
-            "about":"1dayインターン / RubyやGraphQLを学びました"
+            "about":"インターンシップ / 1 day / RubyやGraphQLを学びました"
         },
     ]
 }
