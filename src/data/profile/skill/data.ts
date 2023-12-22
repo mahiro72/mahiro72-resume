@@ -41,6 +41,10 @@ const data = {
             "level":3,
         },
         {
+            "name":"Fast",
+            "level":3,
+        },
+        {
             "name":"Django",
             "level":2,
         },

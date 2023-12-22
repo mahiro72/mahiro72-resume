@@ -14,8 +14,8 @@ const Info:React.FC = ()=>{
         <div className="pt-8 text-center md:pr-10">
             <img src={img_profile} alt="" className="mx-auto rounded-full h-36 w-36" />
             <div className="py-8">
-                <p className="text-2xl">mahiro yoshie</p>
-                <p className="text-base text-gray-400">backend engineer</p>
+                <p className="text-2xl">mahiro</p>
+                <p className="text-base text-gray-400">Backend engineer</p>
             </div>
             <div className="mb-8 w-48 mx-auto">
                 <SecInfoLink text={"Kyoto, Japan"} img={img_location} link={""}/>

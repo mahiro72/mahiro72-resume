@@ -8,6 +8,8 @@ import img_gmo from "../../../img/profile/work/gmo.jpg"
 import img_sansan from "../../../img/profile/work/sansan.png"
 import img_ispec from "../../../img/profile/work/ispec.png"
 import img_kw from "../../../img/profile/work/knowledge_work.png"
+import img_copalette from "../../../img/profile/work/copalette.png"
+import img_aivolt from "../../../img/profile/work/aivolt.png"
 
 const data = {
     "work":[
@@ -16,6 +18,18 @@ const data = {
             "img":img_zozo,
             "name":"株式会社ZOZO",
             "about":"バックエンドエンジニア / ZOZOTOWN / 技術本部"
+        },
+        {
+            "date":"2023/10 - now",
+            "img":img_aivolt,
+            "name":"株式会社AI VOLT",
+            "about":"バックエンドエンジニア"
+        },
+        {
+            "date":"2023/5 - now",
+            "img":img_copalette,
+            "name":"株式会社CoPalette",
+            "about":"バックエンドエンジニア"
         },
         {
             "date":"2023/1 - now",
