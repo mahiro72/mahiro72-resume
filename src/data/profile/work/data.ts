@@ -26,7 +26,7 @@ const data = {
             "about":"業務委託 / バックエンドエンジニア"
         },
         {
-            "date":"2023/5 - now",
+            "date":"2023/5 - 2024/2",
             "img":img_copalette,
             "name":"株式会社CoPalette",
             "about":"取締役 / バックエンドエンジニア"
