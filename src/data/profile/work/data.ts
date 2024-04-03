@@ -32,7 +32,7 @@ const data = {
             "about":"取締役 / バックエンドエンジニア"
         },
         {
-            "date":"2023/1 - now",
+            "date":"2023/1 - 2023/3",
             "img":img_ispec,
             "name":"株式会社ispec",
             "about":"業務委託 / バックエンドエンジニア / SaaS Squad"
