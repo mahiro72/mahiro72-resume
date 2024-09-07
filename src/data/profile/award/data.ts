@@ -14,12 +14,44 @@ import img_miyagi from "../../../img/profile/award/miyagi.png"
 import img_pioneer from "../../../img/profile/award/pioneer.png"
 
 const data = {
-    "award":[
+    "achievement":[
+        {
+            "date":"2024/7",
+            "name":"🏆 IVS LAUNCHPAD 登壇 (AI VOLT)",
+            "img":"",
+            "about":"AI VOLTの軍神がLAUNCHPADにて登壇しました",
+            "article":"",
+            "github":""
+        },
+        {
+            "date":"2024/2",
+            "name":"🏆 Qiitaハッカソン 予選入賞 & 決勝出場",
+            "img":"",
+            "about":"",
+            "article":"",
+            "github":""
+        },
+        {
+            "date":"2023/11",
+            "name":"✨JPHACKS2023 ゲスト審査員",
+            "img":img_jphacks ,
+            "about":"ゲスト審査員としてJPHACKSに参加しました。",
+            "article":"https://jphacks.com/2023/detail/",
+            "github":""
+        },
         {
             "date":"2023/3",
             "name":"💪みやぎハッカソン 2022 / 出場",
             "img":img_miyagi,
             "about":"",
+            "article":"",
+            "github":""
+        },
+        {
+            "date":"2023/3",
+            "name":"✨関西ビギナーズハッカソン vol.1 審査員",
+            "img":"",
+            "about":"関西ビギナーズハッカソンの審査員として参加しました。",
             "article":"",
             "github":""
         },
@@ -40,18 +72,10 @@ const data = {
             "github":"https://github.com/jphacks/F_2205"
         },
         {
-            "date":"2022/11",
-            "name":"✨JPHACKS2022 のみぱら / Finalist Award",
-            "img":img_jphacks ,
-            "about":"「JPHACKS 2022 Award Day」進出チームに選ばれました",
-            "article":"",
-            "github":"https://github.com/jphacks/F_2205"
-        },
-        {
             "date":"2022/10",
-            "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award(Fブロック1位), Hacking Sprint Block Sponsor Award(シグマ賞)",
+            "name":"👑JPHACKS2022 のみぱら / Best Hacking Sprint Award(Fブロック1位), Hacking Sprint Block Sponsor Award(シグマ賞), Finalist Award",
             "img":img_nomipara,
-            "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops担当",
+            "about":"オンライン飲み会に最適化された新しいビデオ通話サービスです / バックエンド、インフラ、Ops担当 / 「JPHACKS 2022 Award Day」進出チームに選ばれました",
             "article":"",
             "github":"https://github.com/jphacks/F_2205"
         },
