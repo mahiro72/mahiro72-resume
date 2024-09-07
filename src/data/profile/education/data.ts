@@ -5,19 +5,19 @@ import img_doer from "../../../img/profile/education/doer.png";
 const data = {
     "education":[
         {
-            "date":"2022/3 ~ ",
+            "date":"2022/3 - 2023/3",
             "img":img_doer,
             "name":"Do'er",
-            "about":"同志社大学・同志社女子大学エンジニアのためのコミュニティ / コアメンバー"
+            "about":"同志社大学・同志社女子大学エンジニアのためのコミュニティ / コアメンバー / OBとして所属はしています"
         },
         {
-            "date":"2022/4 ~ 2023/3",
+            "date":"2022/4 - 2023/3",
             "img":img_42tokyo,
             "name":"42Tokyo",
             "about":"libcやprintfの実装に取り組んでいます"
         },
         {
-            "date":"2019/4 ~ 2023/3",
+            "date":"2019/4 - 2023/3",
             "img":img_doshisha,
             "name":"同志社大学",
             "about":"統計学や機械学習、データサイエンスなどを学んでいます"
