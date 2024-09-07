@@ -1,10 +1,10 @@
 import React from "react";
 import SecTitle from "../../common/SecTitle";
-import Award from "./award";
-import data from '../../../data/profile/award/data'
+import Achievement from "./achievement";
+import data from '../../../data/profile/achievement/data'
 import SecTips from "../../common/SecTips";
 
-export type AwardType = {
+export type AchievementType = {
     date:string;
     name:string;
     img:string;
@@ -13,25 +13,25 @@ export type AwardType = {
     github:string;
 }
 
-const AwardList:React.FC = () => {
+const AchievementList:React.FC = () => {
 
-    const awards = data.award;
+    const achievements = data.achievement;
 
     return (
         <div className="pt-4 mb-4 md:mb-8">
-            <SecTitle text={"Award"} />
+            <SecTitle text={"Achievement"} />
             <SecTips text={"▶ ボタンを押すと詳細画面が表示されます"} />
             {
-                awards.map((
-                    award:AwardType,
+                achievements.map((
+                    achievement:AchievementType,
                     idx:number
                 )=>{
-                    return <Award award={award} key={idx}/>
+                    return <Achievement achievement={achievement} key={idx}/>
                 })
             }
         </div>
     )
 }
 
-export default AwardList;
+export default AchievementList;
 

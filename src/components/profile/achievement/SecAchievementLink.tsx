@@ -5,7 +5,7 @@ type Prop = {
     link:string;
 }
 
-const SecAwardLink:React.FC<Prop> = ({img,link}) => {
+const SecAchievementLink:React.FC<Prop> = ({img,link}) => {
     return (
         <>
         {
@@ -26,4 +26,4 @@ const SecAwardLink:React.FC<Prop> = ({img,link}) => {
     )
 }
 
-export default SecAwardLink;
+export default SecAchievementLink;

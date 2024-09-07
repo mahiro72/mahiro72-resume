@@ -1,15 +1,15 @@
 import React,{ useState } from "react";
-import { AwardType } from "./awardList"
-import SecAwardLink from "./SecAwardLink";
-import SecAwardTitle from "./SecAwardTitle";
+import { AchievementType } from "./achievementList"
+import SecAchievementTitle from "./SecAchievementTitle";
+import SecAchievementLink from "./SecAchievementLink";
 import img_memo from "../../../img/common/memo.png"
 import img_github from "../../../img/common/github.png";
 
 type Props = {
-    award:AwardType;
+    achievement:AchievementType;
 }
 
-const Award:React.FC<Props> = ({award}) => {
+const Achievement:React.FC<Props> = ({achievement}) => {
     const [isExpand, setIsExpand] = useState<boolean>(false);
 
     return (
@@ -37,20 +37,20 @@ const Award:React.FC<Props> = ({award}) => {
 
             <div className="text-base font-light w-64 md:w-full">
                 <div className="">
-                    <p className="text-sm text-gray-400">{award.date}</p>
+                    <p className="text-sm text-gray-400">{achievement.date}</p>
                     <a 
                         className="hover:text-blue-400" 
                         onClick={()=>{setIsExpand(!isExpand)}}
                     >
-                        {award.name}
+                        {achievement.name}
                     </a>
                 </div>
                 {
                     isExpand ?
                     <div className="text-sm md:text-base mb-8 mt-2">
-                        <SecAwardTitle img={award.img} about={award.about} />
-                        <SecAwardLink img={img_memo} link={award.article} />
-                        <SecAwardLink img={img_github} link={award.github} />
+                        <SecAchievementTitle img={achievement.img} about={achievement.about} />
+                        <SecAchievementLink img={img_memo} link={achievement.article} />
+                        <SecAchievementLink img={img_github} link={achievement.github} />
                     </div>
                     :
                     <></>
@@ -60,4 +60,4 @@ const Award:React.FC<Props> = ({award}) => {
     )
 }
 
-export default Award;
+export default Achievement;

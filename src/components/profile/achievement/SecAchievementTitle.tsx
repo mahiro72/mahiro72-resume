@@ -5,7 +5,7 @@ type Prop = {
     img:string;
 }
 
-const SecAwardTitle:React.FC<Prop> = ({about,img}) => {
+const SecAchievementTitle:React.FC<Prop> = ({about,img}) => {
     return (
         <div className="mb-6">
             {
@@ -18,4 +18,4 @@ const SecAwardTitle:React.FC<Prop> = ({about,img}) => {
     )
 }
 
-export default SecAwardTitle;
+export default SecAchievementTitle;

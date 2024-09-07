@@ -2,11 +2,10 @@ import React from "react";
 import EducationList from "./education/educationList";
 import Summary from "./summary/summary";
 import WorkList from "./work/workList";
-import AwardList from "./award/awardList";
+import AchievementList from "./achievement/achievementList";
 import SkillList from "./skill/skillList";
 import ArticleList from "./article/articleList";
 import Info from "./info/info";
-import SecTips from "../common/SecTips";
 import Footer from "../layout/Footer";
 import InterviewList from "./interview/interviewList";
 
@@ -22,7 +21,7 @@ const Profile:React.FC = () => {
                     <Summary />
                     <WorkList />
                     <EducationList />
-                    <AwardList />
+                    <AchievementList />
                     <SkillList />
                     <ArticleList />
                     <InterviewList />
