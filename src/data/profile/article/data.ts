@@ -2,6 +2,31 @@
 const data = {
     "article":[
         {
+            "title":"Goのstring型の内部表現をみてみる",
+            "date":"2024/9",
+            "link":"https://zenn.dev/sino_429/articles/20624c604bc7d3"
+        },
+        {
+            "title":"Goにおけるループの評価タイミングの違いと動作への影響",
+            "date":"2024/9",
+            "link":"https://zenn.dev/sino_429/articles/1d3ee0c8c38b00"
+        },
+        {
+            "title":"Goのマップの反復処理の順序は保証されていない",
+            "date":"2024/9",
+            "link":"https://zenn.dev/sino_429/articles/ce8918c578c251"
+        },
+        {
+            "title":"Goのピリオドインポートとは",
+            "date":"2024/9",
+            "link":"https://zenn.dev/sino_429/articles/def384aa7bddc4"
+        },
+        {
+            "title":"2023 振り返り",
+            "date":"2023/12",
+            "link":"https://mahiro72.hatenablog.com/entry/2023/12/31/145824"
+        },
+        {
             "title":"少し変わったキャリアの新卒エンジニアのおすすめ書籍 7選",
             "date":"2023/12",
             "link":"https://qiita.com/mahiro72/items/2663ec94dd7f1c847bf0"

@@ -1,9 +1,3 @@
-
-// level
-// 1 初心者
-// 2 
-
-
 const data = {
     "frontendList":[
         {
@@ -19,16 +13,8 @@ const data = {
             "level":2,
         },
         {
-            "name":"JS",
-            "level":2,
-        },
-        {
             "name":"TS",
             "level":2,
-        },
-        {
-            "name":"Nuxt",
-            "level":1,
         },
     ],
     "backendList":[
@@ -38,18 +24,18 @@ const data = {
         },
         {
             "name":"Python",
-            "level":3,
+            "level":4,
         },
         {
             "name":"Fast",
+            "level":4,
+        },
+        {
+            "name":"Flask",
             "level":3,
         },
         {
             "name":"Django",
-            "level":2,
-        },
-        {
-            "name":"Flask",
             "level":2,
         },
         {
@@ -60,26 +46,26 @@ const data = {
             "name":"Node",
             "level":2,
         },
-        {
-            "name":"Ruby",
-            "level":1,
-        },
-        {
-            "name":"Rails",
-            "level":1,
-        }
     ],
-    "toolList":[
+    "infraList":[
         {
-            "name":"Git",
-            "level":3,
-        },
-        {
-            "name":"GitHub",
-            "level":3,
+            "name":"PostgreSQL",
+            "level":4,
         },
         {
             "name":"Docker",
+            "level":3,
+        },
+        {
+            "name":"DWH",
+            "level":3,
+        },
+        {
+            "name":"Datadog",
+            "level":3,
+        },
+        {
+            "name":"Sentry",
             "level":3,
         },
         {
@@ -87,54 +73,38 @@ const data = {
             "level":2,
         },
         {
-            "name":"VSCode",
+            "name":"GCP",
             "level":3,
         },
         {
-            "name":"Cloud Run",
+            "name":"AWS",
             "level":2,
         },
         {
-            "name":"GCP",
+            "name":"Azure",
             "level":2,
         },
         {
-            "name":"IntelliJ IDEA",
-            "level":1,
-        },
-        {
-            "name":"Datadog",
-            "level":1,
-        },
-        {
-            "name":"aws",
-            "level":1,
-        },
-        {
-            "name":"Heroku",
-            "level":1,
-        },
-        {
-            "name":"render",
-            "level":1,
+            "name":"Redis",
+            "level":2,
         },
     ],
     "otherList":[
+        {
+            "name":"microservice",
+            "level":3,
+        },
         {
             "name":"C",
             "level":3,
         },
         {
-            "name":"MySQL",
-            "level":2,
+            "name":"DDD",
+            "level":3,
         },
         {
-            "name":"PostgreSQL",
-            "level":2,
-        },
-        {
-            "name":"redis",
-            "level":1,
+            "name":"競プロ",
+            "level":3,
         },
     ],
 }

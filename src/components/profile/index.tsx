@@ -23,8 +23,8 @@ const Profile:React.FC = () => {
                     <EducationList />
                     <AchievementList />
                     <SkillList />
-                    <ArticleList />
                     <InterviewList />
+                    <ArticleList />
                 </div>
             </div>
             <Footer />
