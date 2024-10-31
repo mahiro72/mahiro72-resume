@@ -11,6 +11,7 @@ import img_kw from "../../../img/profile/work/knowledge_work.png"
 import img_copalette from "../../../img/profile/work/copalette.png"
 import img_aivolt from "../../../img/profile/work/aivolt.png"
 import img_upcare from "../../../img/profile/work/upcare.png"
+import img_starup from "../../../img/profile/work/starup.png"
 
 const data = {
     "work":[
@@ -19,6 +20,12 @@ const data = {
             "img":img_zozo,
             "name":"株式会社ZOZO",
             "about":"正社員 / Golangを用いた基盤APIの開発や、大規模トラフィックを捌くAPI Gatewayの開発運用をしています。"
+        },
+        {
+            "date":"2024/9 - 現在",
+            "img":img_starup,
+            "name":"株式会社 STAR UP",
+            "about":"業務委託 / 生成AIサービスの設計のレビューなど、技術顧問に近い業務をしています。"
         },
         {
             "date":"2024/8 - 現在",
