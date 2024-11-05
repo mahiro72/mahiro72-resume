@@ -19,7 +19,7 @@ const Info:React.FC = ()=>{
                 <p className="text-base text-gray-400">Backend engineer</p>
             </div>
             <div className="mb-8 w-48 mx-auto">
-                <SecInfoLink text={"Kyoto, Japan"} img={img_location} link={""}/>
+                <SecInfoLink text={"Tokyo, Japan"} img={img_location} link={""}/>
                 <SecInfoLink text={"mahiro.yoshie@gmail.com"} img={img_mail} link={""}/>
                 <SecInfoLink text={"Linkedin"} img={img_linkedin} link={"https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/"}/>
                 <SecInfoLink text={"Hatena Blog"} img={img_hatena} link={"https://mahiro72.hatenablog.com/"}/>
