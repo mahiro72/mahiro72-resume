@@ -1,12 +1,11 @@
 import React from "react";
-import img_profile from "../../../img/profile/info/profile.png";
 import img_profile_mahiro0x00 from "../../../img/profile/info/mahiro0x00.png";
 import SecInfoLink from "./SecInfoLink";
 
 import img_location from "../../../img/profile/info/location.png"
 import img_mail from "../../../img/profile/info/mail.png"
 import img_linkedin from "../../../img/profile/info/linkedin.png"
-import img_twitter from "../../../img/profile/info/twitter.png"
+import img_x from "../../../img/profile/info/x.png"
 import img_github from "../../../img/common/github.png"
 import img_hatena from "../../../img/profile/info/hatena.png"
 
@@ -25,7 +24,7 @@ const Info:React.FC = ()=>{
                 <SecInfoLink text={"Hatena Blog"} img={img_hatena} link={"https://mahiro72.hatenablog.com/"}/>
             </div>
             <div className="w-48 mx-auto">
-                <SecInfoLink text={"@mahiro0x00"} img={img_twitter} link={"https://twitter.com/mahiro0x00"}/>
+                <SecInfoLink text={"@mahiro0x00"} img={img_x} link={"https://twitter.com/mahiro0x00"}/>
                 <SecInfoLink text={"@mahiro72"} img={img_github} link={"https://github.com/mahiro72"}/>
             </div>
         </div>
