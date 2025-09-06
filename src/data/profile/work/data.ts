@@ -21,7 +21,7 @@ const data = {
             "date":"2023/4 - 現在 (2022/6 - 2023/3 アルバイト)",
             "img":img_zozo,
             "name":"株式会社ZOZO",
-            "about":"正社員(バックエンドエンジニア) / Golangを用いて基盤APIやAPI Gatewayの開発運用に従事しています。またアーキテクトチームも兼務しています。"
+            "about":"正社員(バックエンドエンジニア) / Golangを用いて基盤APIやAPI Gatewayの開発運用に従事しています。"
         },
         {
             "date":"2025/3 - 現在",
