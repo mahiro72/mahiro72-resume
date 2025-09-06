@@ -1,5 +1,4 @@
 import img_zozo from "../../../img/profile/work/zozo.png"
-import img_sample from "../../../img/profile/work/company_sample.png"
 import img_teamlab from "../../../img/profile/work/teamlab.png"
 import img_cookpad from "../../../img/profile/work/cookpad.png"
 import img_plaid from "../../../img/profile/work/plaid.png"
@@ -23,12 +22,6 @@ const data = {
             "img":img_zozo,
             "name":"株式会社ZOZO",
             "about":"正社員(バックエンドエンジニア) / Golangを用いて基盤APIやAPI Gatewayの開発運用に従事しています。またアーキテクトチームも兼務しています。"
-        },
-        {
-            "date":"2023/10 - 現在",
-            "img":img_aivolt,
-            "name":"株式会社AI VOLT",
-            "about":"業務委託 / 生成AIサービスのバックエンドの設計開発から、PM、運用、組織設計など幅広く取り組んでいます。"
         },
         {
             "date":"2025/3 - 現在",
@@ -59,6 +52,12 @@ const data = {
             "img":img_upcare,
             "name":"株式会社 SPARQ",
             "about":"業務委託(SRE) / SREとしてインフラ基盤の構築や、アプリケーションの監視基盤を作っています。"
+        },
+        {
+            "date":"2023/10 - 2025/8",
+            "img":img_aivolt,
+            "name":"株式会社AI VOLT",
+            "about":"業務委託(テックリード) / 生成AIサービスのバックエンドの設計開発から、PM、保守・運用など幅広く取り組みました。"
         },
         {
             "date":"2023/5 - 2024/2",
