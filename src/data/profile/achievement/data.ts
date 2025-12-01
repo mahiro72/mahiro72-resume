@@ -16,6 +16,14 @@ import img_pioneer from "../../../img/profile/achievement/pioneer.png"
 const data = {
     "achievement":[
         {
+            "date":"2025/11",
+            "name":"✨JPHACKS2025 審査員",
+            "img":img_jphacks ,
+            "about":"審査員としてJPHACKSに参加しました。",
+            "article":"https://jphacks.com/2025/committee-members/",
+            "github":""
+        },
+        {
             "date":"2024/7",
             "name":"🏆 IVS LAUNCHPAD 登壇 (AI VOLT)",
             "img":"",
